@@ -141,6 +141,7 @@ select {
     justify-content: space-around;
     margin: 0 0;
     margin-left: 100px;
+    width: 30%;
 }
 
 .left-menu-bar ul {
@@ -177,9 +178,9 @@ select {
     color: white;
     background-color: black;
     height: 400px;
-    width: 900px;
     margin: 45px;
     padding: 45px;
+    width: 100%;
 }
 
 .box-ads {
