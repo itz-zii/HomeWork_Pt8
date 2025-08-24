@@ -302,6 +302,7 @@ input[type='radio']:checked:after {
 }
 
 .app span img {
+    width: 100%;
     height: 40px;
     margin: 5px 0;
     border: 1px white solid;
