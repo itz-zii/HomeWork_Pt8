@@ -148,6 +148,7 @@ img {
 .back-btn {
     height: 100%;
     margin-top: 25px;
+    display: flex;
 }
 
 .back-btn a {
