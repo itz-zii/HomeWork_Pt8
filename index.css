@@ -8,11 +8,6 @@
 
 /* P/S (Nghịch) */
 
-@font-face {
-    font-family: "SVN" ;
-    src: url(/font_index/SVN-Fontbox-Boathouse-Filled.otf);
-}
-
 body {
   height: 100%;
   background-color: white    ;
@@ -35,7 +30,7 @@ body {
     animation: textmove 3s;
     animation-fill-mode:forwards; 
     border-radius: 25px;
-    font-family: "SVN";
+    font-family:Arial, Helvetica, sans-serif;
     display: flex;
     justify-content:center;
     padding: 25px;
