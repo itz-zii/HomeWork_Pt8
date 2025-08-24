@@ -148,11 +148,6 @@ select {
     margin: 25px 0;
 }
 
-.left-menu-bar ul li:hover {
-    text-decoration: underline;
-
-}
-
 .left-menu-bar ul li a {
     text-decoration: none;
     padding: 5px;
@@ -166,7 +161,7 @@ select {
     justify-content: space-between;
 }
 
-.left-menu-bar ul li a img {
+.left-menu-bar ul li a i {
     height: 30px;
     margin-left: 30px;
 }
